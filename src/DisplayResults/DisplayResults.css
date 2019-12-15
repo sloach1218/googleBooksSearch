@@ -1,0 +1,34 @@
+.result{
+    background-color: #eee;
+    padding:10px;
+    
+}
+
+.result a{
+    display: inline-block;
+    width: 96%;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid darkgray;
+    padding:2%;
+}
+
+.result h2{
+    text-decoration: underline;
+    margin: 0 0 5px 0;
+}
+.result h3{
+    margin: 4px 0;
+}
+
+.result .imgCont{
+    float:left;
+    margin-right: 25px;
+    height:100%;
+    width:150px;
+}
+
+.result img{
+    max-width: 150px;
+   
+}
